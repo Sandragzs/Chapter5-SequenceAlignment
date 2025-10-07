@@ -74,3 +74,4 @@ score, aln1, aln2 = smith_waterman(seq1, seq2)
 print(score)     
 print(aln1)                
 print(aln2)
+#Code provided by ChatGPT
