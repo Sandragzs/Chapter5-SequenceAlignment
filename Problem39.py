@@ -35,3 +35,4 @@ def lcs(v, w):
 
 result = lcs(v, w)
 print(result)
+#code provided by ChatGPT
